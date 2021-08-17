@@ -1,6 +1,10 @@
 .gradle
 /build/
 .metadata/
+service.customer/gradle/
+service.customer/build.gradle
+service.customer/gradlew
+service.customer/gradlew.bat
 
 # Ignore Gradle GUI config
 gradle-app.setting
